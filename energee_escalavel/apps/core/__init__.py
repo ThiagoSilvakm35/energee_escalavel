@@ -1,0 +1,1 @@
+# Core App - Funcionalidades base do sistema multi-tenant

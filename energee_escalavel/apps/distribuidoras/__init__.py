@@ -1,0 +1,1 @@
+# Distribuidoras App - Tenants principais do sistema
