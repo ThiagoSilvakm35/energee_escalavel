@@ -1,0 +1,1 @@
+# Organizações App - Empresas clientes das distribuidoras
